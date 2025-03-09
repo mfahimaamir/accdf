@@ -253,6 +253,7 @@ pynput==1.7.7
 pyodbc==5.2.0
 pyparsing==3.2.0
 pyperclip==1.9.0
+pypiwin32==223
 pyppeteer==2.0.0
 PyQt5==5.15.11
 PyQt5-Qt5==5.15.2
@@ -274,6 +275,7 @@ python-slugify==8.0.4
 python-socketio==5.11.4
 pytz==2024.2
 PyWavelets==1.8.0
+pywin32==308
 pywinpty==2.0.14
 PyYAML==6.0.2
 pyzmq==26.2.0
