@@ -1,12 +1,6 @@
 import streamlit as st
 import pyodbc
 import pandas as pd
-import numpy as np
-from tkinter import *
-from tkinter import ttk, filedialog
-from tkinter.filedialog import askopenfile
-import os
-
 #import sqlalchemy as sa
 
 
