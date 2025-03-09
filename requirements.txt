@@ -167,10 +167,6 @@ markdown-it-py==3.0.0
 markdown2==2.5.1
 markdownlit==0.0.7
 MarkupSafe==2.1.5
-matplotlib==3.9.2
-matplotlib-inline==0.1.7
-mdurl==0.1.2
-missingno==0.5.2
 mistune==3.0.2
 mitoinstaller==0.0.321
 mitosheet==0.2.6
@@ -244,9 +240,6 @@ pydantic==2.9.2
 pydantic_core==2.23.4
 pydeck==0.9.1
 pyee==11.1.1
-Pygments==2.18.0
-pygwalker==0.4.9.13
-PyJWT==2.10.1
 pymdown-extensions==10.12
 PyMySQL==1.1.1
 pynput==1.7.7
